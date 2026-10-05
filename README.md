@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width=“200” height=“300” src=”https://file.garden/aqMYnO1KYTuDHmzN/Untitled75_20261004213211.png”>
+<img width="450" src="https://file.garden/aqMYnO1KYTuDHmzN/Untitled75_20261004213211.png" style="background-color: transparent !important"/>
+
 
 <br>  
   <table>
